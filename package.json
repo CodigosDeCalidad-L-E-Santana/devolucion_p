@@ -1,0 +1,23 @@
+{
+  "name": "devolucion_p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodigosDeCalidad-L-E-Santana/devolucion_p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodigosDeCalidad-L-E-Santana/devolucion_p/issues"
+  },
+  "homepage": "https://github.com/CodigosDeCalidad-L-E-Santana/devolucion_p#readme",
+  "dependencies": {
+    "puppeteer": "^20.7.2"
+  }
+}
